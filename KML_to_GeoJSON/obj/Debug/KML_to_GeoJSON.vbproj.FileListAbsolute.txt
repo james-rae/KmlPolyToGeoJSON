@@ -1,0 +1,10 @@
+D:\Git\KmlPolyToGeoJSON\KML_to_GeoJSON\bin\Debug\KML_to_GeoJSON.exe.config
+D:\Git\KmlPolyToGeoJSON\KML_to_GeoJSON\bin\Debug\KML_to_GeoJSON.exe
+D:\Git\KmlPolyToGeoJSON\KML_to_GeoJSON\bin\Debug\KML_to_GeoJSON.pdb
+D:\Git\KmlPolyToGeoJSON\KML_to_GeoJSON\bin\Debug\KML_to_GeoJSON.xml
+D:\Git\KmlPolyToGeoJSON\KML_to_GeoJSON\obj\Debug\KML_to_GeoJSON.Form1.resources
+D:\Git\KmlPolyToGeoJSON\KML_to_GeoJSON\obj\Debug\KML_to_GeoJSON.Resources.resources
+D:\Git\KmlPolyToGeoJSON\KML_to_GeoJSON\obj\Debug\KML_to_GeoJSON.vbproj.GenerateResource.Cache
+D:\Git\KmlPolyToGeoJSON\KML_to_GeoJSON\obj\Debug\KML_to_GeoJSON.exe
+D:\Git\KmlPolyToGeoJSON\KML_to_GeoJSON\obj\Debug\KML_to_GeoJSON.xml
+D:\Git\KmlPolyToGeoJSON\KML_to_GeoJSON\obj\Debug\KML_to_GeoJSON.pdb
